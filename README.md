@@ -1,5 +1,12 @@
 # hiking-roulette
 
+<<<<<<< HEAD
+Group name - Trail Mix 
+
+Ardian Ajvazi
+Rick Tesmond
+Mike Harrison
+=======
 
 User stories:
 1) As a developer, I want a database that holds all of the trail information so the info is easily accessable(JSON).
@@ -32,4 +39,5 @@ Monday -
 Tuesday - we'll see what happens Monday
 
   -basic CSS so we can work easily
-  
+
+>>>>>>> e2626c8ac54eae6ce1e3d298ceb203e4fae04bb3
